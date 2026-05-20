@@ -1,0 +1,41 @@
+text,label
+"Verify your bank account immediately",phishing
+"Click here to reset your password",phishing
+"Urgent login required now",phishing
+"Your account has been suspended",phishing
+"Update your banking details now",phishing
+"Confirm your password immediately",phishing
+"Your ATM card is blocked",phishing
+"Win a free iPhone now",phishing
+"Login to avoid account closure",phishing
+"Security alert verify now",phishing
+"Your PayPal account needs verification",phishing
+"Click this link to claim reward",phishing
+"Bank account warning",phishing
+"Suspicious login attempt detected",phishing
+"Free recharge offer click now",phishing
+"Limited time offer click here",phishing
+"Your account will expire soon",phishing
+"Verify your identity now",phishing
+"Update your credit card details",phishing
+"Claim your cashback reward",phishing
+"Meeting tomorrow at 10am",safe
+"Project submission is due today",safe
+"Lunch at 1 PM?",safe
+"Happy Birthday! Have a great day",safe
+"Team meeting tomorrow morning",safe
+"Class starts at 9 AM",safe
+"Assignment completed successfully",safe
+"Let's attend the workshop tomorrow",safe
+"Dinner plan tonight",safe
+"Your exam timetable is released",safe
+"Please submit lab record tomorrow",safe
+"Internal marks are updated",safe
+"Call me when you are free",safe
+"Today's seminar is cancelled",safe
+"Notes are uploaded in classroom",safe
+"College holiday tomorrow",safe
+"Faculty meeting scheduled today",safe
+"Lab exam starts next week",safe
+"Project review meeting at 2 PM",safe
+"Can we discuss the assignment?",safe
